@@ -1,3 +1,5 @@
-module GO_REST_API/hello_test.go
+module GO_REST_API/main
 
 go 1.14
+
+require github.com/gorilla/mux v1.8.0
